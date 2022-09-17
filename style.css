@@ -1,3 +1,4 @@
 body { background-color: #00FA9A;}
 h1   { color: #800000;}
 #nav-table { width: 800px;}
+#nav-td {width: 200px; text-align:center;}
